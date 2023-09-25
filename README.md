@@ -1,4 +1,4 @@
-# Tourism-Management-System
+# Tour-and-Travel-Management-System
 This is a Tourism Management System Project build by using html, css, javascript, php, MySQL as project in the 5th semester of BCA. 
 This website has SignUp/SignIn page where you can enter your details and SignUp. 
 It stores your data in the database using php and MySQL queries through XAMPP Server. 
